@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jetbrain"
+    }
+  },
+  "defaultProject": "jetbrain",
+  "cli": {
+    "analytics": false
+  }
 }
